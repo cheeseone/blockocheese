@@ -10,24 +10,19 @@
 # REMOVE TELEMETRY ON YOUR PC (MEMBERS ONLY):                                               #
 # https://encrypt-the-planet.com/completely-disable-windows-10-telemetry/                   #
 #############################################################################################
-127.0.0.1	localhost
-127.0.0.1	localhost.localdomain
-127.0.0.1	local
-255.255.255.255	broadcasthost
-::1	localhost
 #
 # START - ALLOWING WINDOWS UPDATES
-# 0.0.0.0 sls.update.microsoft.com.nsatc.net
-# 0.0.0.0 fe2.update.microsoft.com.nsatc.net
-# 0.0.0.0 static.78-46-223-24.clients.your-server.de 
+ 0.0.0.0 sls.update.microsoft.com.nsatc.net
+ 0.0.0.0 fe2.update.microsoft.com.nsatc.net
+ 0.0.0.0 static.78-46-223-24.clients.your-server.de 
 # END - ALLOWING WINDOWS UPDATES
 #
 # START - ALLOWING MICROSOFT MALWARE PROTECTION
-# 0.0.0.0 e13678.dspb.akamaiedge.net
-# 0.0.0.0 e3673.g.akamaiedge.net
-# 0.0.0.0 e1863.dspb.akamaiedge.net
-# 0.0.0.0 a23-203-177-241.deploy.static.akamaitechnologies.com
-# 0.0.0.0 e11290.dspg.akamaiedge.net
+ 0.0.0.0 e13678.dspb.akamaiedge.net
+ 0.0.0.0 e3673.g.akamaiedge.net
+ 0.0.0.0 e1863.dspb.akamaiedge.net
+ 0.0.0.0 a23-203-177-241.deploy.static.akamaitechnologies.com
+ 0.0.0.0 e11290.dspg.akamaiedge.net
 # END - ALLOWING MICROSOFT MALWARE PROTOECTION
 #
 # START - BLOCKING NVIDIA TELEMETRY
