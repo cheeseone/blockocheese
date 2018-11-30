@@ -1,4 +1,6 @@
-# Windows telemetry from https://www.ghacks.net/2017/02/11/blocking-telemetry-in-windows-7-and-8-1/
+# Windows telemetry 
+# https://www.ghacks.net/2017/02/11/blocking-telemetry-in-windows-7-and-8-1
+# https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Empfehlungen/SiSyPHuS_Win10/AP4/SiSyPHuS_AP4.html
 
 0.0.0.0 134.170.30.202
 0.0.0.0 137.116.81.24
