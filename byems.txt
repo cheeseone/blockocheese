@@ -1,4 +1,5 @@
 # Windows telemetry 
+# https://encrypt-the-planet.com/completely-disable-windows-10-telemetry/
 # https://www.ghacks.net/2017/02/11/blocking-telemetry-in-windows-7-and-8-1
 # https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Empfehlungen/SiSyPHuS_Win10/AP4/SiSyPHuS_AP4.html
 
