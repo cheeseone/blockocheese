@@ -1,3 +1,5 @@
+
+
 0.0.0.0  docplayer.biz
 0.0.0.0  docplayer.biz.tr
 0.0.0.0  docplayer.com.br
@@ -51,3 +53,66 @@
 0.0.0.0  slidesplayer.info
 0.0.0.0  slidesplayer.net
 0.0.0.0  slidesplayer.org
+0.0.0.0  55app-measurement.com
+0.0.0.0  56events.appsflyer.com
+0.0.0.0  app.adjust.com
+0.0.0.0  resolver.msg.xiaomi.net
+0.0.0.0  halfbrick.helpshift.com
+0.0.0.0  connect.rom.miui.com
+0.0.0.0  edigitalsurvey.com
+0.0.0.0  combine.urbanairship.com
+0.0.0.0  global.market.xiaomi.com
+0.0.0.0  tags.bluekai.com
+0.0.0.0  spica.iad-03.braze.com
+0.0.0.0  secure.livechatinc.com
+0.0.0.0  aax-eu.amazon-adsystem.com
+0.0.0.0  manifest.localytics.com
+0.0.0.0  scannables.scdn.co
+0.0.0.0  rules.quantcount.com
+0.0.0.0  tracking.intl.miui.com
+0.0.0.0  rpc.tapjoy.com
+0.0.0.0  js.driftt.com
+0.0.0.0  us-u.openx.net
+0.0.0.0  ocsp.comodoca.com
+0.0.0.0  a.applovin.com
+0.0.0.0  pixel.advertising.com
+0.0.0.0  eu-u.openx.net
+0.0.0.0  fastlane.rubiconproject.com
+0.0.0.0  s.amazon-adsystem.com
+0.0.0.0  aax-us-east.amazon-adsystem.com
+0.0.0.0  api.supertracker.io
+0.0.0.0  betting-api.onefootball.com
+0.0.0.0  slots5.tuanguwen.com
+0.0.0.0  track.tenjin.io
+0.0.0.0  ad.turn.com
+0.0.0.0  tv-guide-api.onefootball.com
+0.0.0.0  adlog.flurry.com
+0.0.0.0  g.whatsapp.net
+0.0.0.0  c.disquscdn.com
+0.0.0.0  odr.mookie1.com
+0.0.0.0  ads.api.vungle.com
+0.0.0.0  bttrack.com
+0.0.0.0  tigger-citadel.touchtype-fluency.com
+0.0.0.0  ccc.sys.intl.xiaomi.com
+0.0.0.0  app.chat.xiaomi.net
+0.0.0.0  resolver.msg.xiaomi.net
+0.0.0.0  sdkconfig.ad.intl.xiaomi.com:
+0.0.0.0  telemetry.api.swiftkey.com
+0.0.0.0  mirror.cedia.org.ec
+0.0.0.0  tracking.m6r.eu
+0.0.0.0  delivery.swid.switchadhub.com
+0.0.0.0  dmx.districtm.io
+0.0.0.0  placements.tapjoy.com
+0.0.0.0  c.apple.news
+0.0.0.0  galleryapi.micloud.xiaomi.net
+0.0.0.0  find.api.micloud.xiaomi.net
+0.0.0.0  api.ad.xiaomi.com
+0.0.0.0  data.mistat.xiaomi.com
+0.0.0.0  file.market.xiaomi.com
+0.0.0.0  ccc.sys.miui.com:
+0.0.0.0  abtest.mistat.xiaomi.com
+0.0.0.0  metok-ccc.intl.xiaomi.com
+0.0.0.0  servedby.flashtalking.com
+
+
+
